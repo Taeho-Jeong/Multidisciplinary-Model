@@ -1,0 +1,14 @@
+<Projected CRS: EPSG:3857>
+Name: WGS 84 / Pseudo-Mercator
+Axis Info [cartesian]:
+- X[east]: Easting (metre)
+- Y[north]: Northing (metre)
+Area of Use:
+- name: World between 85.06°S and 85.06°N.
+- bounds: (-180.0, -85.06, 180.0, 85.06)
+Coordinate Operation:
+- name: Popular Visualisation Pseudo-Mercator
+- method: Popular Visualisation Pseudo Mercator
+Datum: World Geodetic System 1984 ensemble
+- Ellipsoid: WGS 84
+- Prime Meridian: Greenwich
